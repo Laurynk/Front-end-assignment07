@@ -1,0 +1,27 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.article {
+  text-align: left;
+  margin-left: 1em;
+  border-style: solid;
+}
+
+.article span {
+  display: inline-block;
+  margin: 0.1rem;
+  font-size: 0.8rem;
+  padding: 0 5px;
+}
+
+.title {
+  text-align: center;
+  font-weight: bold;
+}
+
+.author {
+  color: purple;
+  font-weight: bold;
+}
